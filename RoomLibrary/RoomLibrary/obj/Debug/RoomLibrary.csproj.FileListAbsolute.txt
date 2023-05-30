@@ -1,0 +1,6 @@
+C:\Users\Edgar Kazazyan\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\Edgar Kazazyan\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Kazazyan\Desktop\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\Edgar Kazazyan\Desktop\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\Edgar Kazazyan\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\Edgar Kazazyan\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
