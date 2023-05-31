@@ -1,0 +1,12 @@
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\bin\Debug\EditText.exe.config
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\bin\Debug\EditText.exe
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\bin\Debug\EditText.pdb
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.csproj.AssemblyReference.cache
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.AboutBox1.resources
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.Form1.resources
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.Properties.Resources.resources
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.csproj.GenerateResource.cache
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.exe
+C:\Users\Edgar Kazazyan\Desktop\EditText-master\EditText-master\EditText\obj\Debug\EditText.pdb
