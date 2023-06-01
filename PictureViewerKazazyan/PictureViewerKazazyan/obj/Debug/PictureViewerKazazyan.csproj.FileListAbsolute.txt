@@ -1,0 +1,11 @@
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\bin\Debug\PictureViewerKazazyan.exe.config
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\bin\Debug\PictureViewerKazazyan.exe
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\bin\Debug\PictureViewerKazazyan.pdb
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.csproj.AssemblyReference.cache
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.Form1.resources
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.Properties.Resources.resources
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.csproj.GenerateResource.cache
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.exe
+C:\Users\Edgar Kazazyan\source\repos\PictureViewerKazazyan\PictureViewerKazazyan\obj\Debug\PictureViewerKazazyan.pdb
