@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomsDescription", "RoomsDescription\RoomsDescription.csproj", "{6902401B-FEB9-4EC7-894D-505944664515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomLibrary", "RoomLibrary\RoomLibrary.csproj", "{BD313672-1919-45AA-BF43-C62C593F9BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6902401B-FEB9-4EC7-894D-505944664515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6902401B-FEB9-4EC7-894D-505944664515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6902401B-FEB9-4EC7-894D-505944664515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6902401B-FEB9-4EC7-894D-505944664515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD313672-1919-45AA-BF43-C62C593F9BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD313672-1919-45AA-BF43-C62C593F9BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD313672-1919-45AA-BF43-C62C593F9BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD313672-1919-45AA-BF43-C62C593F9BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033329D8-C42C-4994-94F1-22A11629E6D6}
+	EndGlobalSection
+EndGlobal
